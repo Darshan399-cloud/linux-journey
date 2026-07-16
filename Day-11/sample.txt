@@ -1,0 +1,10 @@
+Linux
+Ubuntu
+Shell
+Linux
+Git
+Docker
+AWS
+Ubuntu
+Azure
+DevOps

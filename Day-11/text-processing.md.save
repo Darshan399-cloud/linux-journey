@@ -1,0 +1,57 @@
+# File Handling in Linux
+
+## Definition
+
+File handling refers to creating, viewing, copying, moving, renaming, and deleting files in Linux.
+
+---
+
+## Common Commands
+
+### Create File
+
+```bash
+touch file.txt
+```
+
+### View File
+
+```bash
+cat file.txt
+```
+
+### Copy File
+
+```bash
+cp file.txt backup.txt
+```
+
+### Move/Rename File
+
+```bash
+mv file.txt newfile.txt
+```
+
+### Delete File
+
+```bash
+rm newfile.txt
+```
+
+### Display First 5 Lines
+
+```bash
+head -5 sample.txt
+```
+
+### Display Last 5 Lines
+
+```bash
+tail -5 sample.txt
+```
+
+---
+
+## Interview Definition
+
+File handling is the process of creating, reading, modifying, copying, moving, and deleting files in Linux.
